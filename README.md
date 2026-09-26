@@ -39,20 +39,6 @@ stm-if25-40305-123140123/
 └── ... (folder tugas pertemuan berikutnya)
 ```
 
----
-
-## 📋 Daftar Tugas & Progress Tracking
-
-Berikut adalah tabel rekapitulasi pengerjaan tugas pada mata kuliah Sinyal dan Sistem:
-
-| No | Modul / Topik | Folder | Deskripsi Singkat | Status |
-| :-: | :--- | :--- | :--- | :-: |
-| 01 | Introduksi & Dasar Sinyal | `01_dasar_sinyal/` | Pengenalan sinyal diskrit/kontinu & operasi dasar sinyal | 🚧 *Planned* |
-| 02 | Visualisasi Sinyal Audio & Noise Statis | [`02_audio_noise_statis/`](./02_audio_noise_statis/) | Analisis domain waktu & frekuensi (FFT), downsampling naive vs clean (anti-aliasing) | ✅ **Selesai** |
-| 03 | Modul Pertemuan 3 | `03_.../` | Filter Digital (FIR / IIR) & Konvolusi | ⏳ *Upcoming* |
-
----
-
 ## 🛠️ Lingkungan Pengembangan & Prasyarat
 
 Untuk menjalankan dan mereplikasi eksperimen pada repositori ini, pastikan modul/pustaka Python berikut telah terpasang:
